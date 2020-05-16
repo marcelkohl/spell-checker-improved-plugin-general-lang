@@ -1,0 +1,18 @@
+{
+  "name": "spell-checker-improved-plugin-general-lang",
+  "version": "1.0.0",
+  "main": "./lib/main",
+  "description": "spell checker general words for development plugin",
+  "repository": "",
+  "license": "",
+  "engines": {
+    "atom": "*"
+  },
+  "providedServices": {
+    "spell-checker-improved": {
+      "versions": {
+        "1.0.0": "subscribePlugin"
+      }
+    }
+  }
+}
