@@ -3,8 +3,8 @@
   "version": "1.0.1",
   "main": "./lib/main",
   "description": "spell checker general words for development plugin",
-  "repository": "",
-  "license": "",
+  "repository": "https://github.com/marcelkohl/spell-checker-improved-plugin-general-lang",
+  "license": "GPLv3",
   "engines": {
     "atom": "*"
   },
