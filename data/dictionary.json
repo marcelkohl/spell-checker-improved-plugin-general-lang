@@ -3,6 +3,13 @@
     "bool",
     "https",
     "api",
-    "ctrl"
+    "ctrl",
+    "url",
+    "json",
+    "orm",
+    "uri",
+    "uid",
+    "utf",
+    "www"
   ]
 }
