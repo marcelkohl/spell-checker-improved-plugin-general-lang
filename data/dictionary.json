@@ -2,8 +2,7 @@
   "dictionary": [
     "bool",
     "https",
-    "xml",
-    "xsi",
-    "api"
+    "api",
+    "ctrl"
   ]
 }
