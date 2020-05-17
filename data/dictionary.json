@@ -10,6 +10,9 @@
     "uri",
     "uid",
     "utf",
-    "www"
+    "www",
+    "todo",
+    "dir",
+    "enum"
   ]
 }
