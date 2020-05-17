@@ -1,6 +1,6 @@
 {
   "name": "spell-checker-improved-plugin-general-lang",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "./lib/main",
   "description": "spell checker general words for development plugin",
   "repository": "https://github.com/marcelkohl/spell-checker-improved-plugin-general-lang",
